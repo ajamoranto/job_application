@@ -99,6 +99,7 @@ p {
 select {
   border: none;
   background-color: white;
+  color: #c9c9c9;
 }
 
 input {
